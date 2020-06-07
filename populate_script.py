@@ -32,5 +32,5 @@ def add_user():
         add_useractivity(u)
 
     return u
-    
+
 create_post(5)
