@@ -64,7 +64,7 @@ jdcal==1.4.1
 Jinja2==2.11.1
 kiwisolver==1.1.0
 kombu==3.0.37
-lxml==4.5.0
+lxml==4.9.1
 Markdown==2.6
 MarkupSafe==1.1.1
 matplotlib==2.2.5
