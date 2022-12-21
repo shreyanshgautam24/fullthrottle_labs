@@ -72,7 +72,7 @@ meld3==1.0.2
 MonthDelta==0.9.1
 MySQL-python==1.2.5
 num2words==0.5.10
-numpy==1.16.6
+numpy==1.22.0
 oauthlib==3.1.0
 openpyxl==2.4.11
 pandas==0.24.2
