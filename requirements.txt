@@ -18,7 +18,7 @@ colour==0.1.5
 configobj==5.0.6
 configparser==4.0.2
 contextlib2==0.6.0.post1
-cryptography==2.9.2
+cryptography==39.0.1
 cssselect2==0.2.2
 cycler==0.10.0
 distlib==0.3.0
