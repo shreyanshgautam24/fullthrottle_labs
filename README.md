@@ -38,5 +38,4 @@ for _ in range(10):
 # 'Emmett Lebsack'
 # 'Keegan Thiel'
 # 'Wellington Koelpin II'
-# 'Ms. Karley Kiehn V'
 
